@@ -1,8 +1,8 @@
 # Heart Rate Prediction with Regression Models and Wearable Device Data
 
-<b>Authors</b>: Erin Jones + Filipe Santos\n
-<b>Submission Date</b>: 12/11/2023\n
-<b>Course</b>: DATA 200 - Fall 2023 - UC Berkeley\n
+<b>Authors</b>: Erin Jones + Filipe Santos<br>
+<b>Submission Date</b>: 12/11/2023<br>
+<b>Course</b>: DATA 200 - Fall 2023 - UC Berkeley<br>
 
 All files can be found at the following drive link accessible to anyone with UC Berkeley Credentials -> https://drive.google.com/drive/folders/1U5LF7SYpHH0-SuC6fIKPXWGUv3Qiw-tQ?usp=sharing
 
